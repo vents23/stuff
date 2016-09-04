@@ -1,0 +1,24 @@
+{
+  "name": "venno",
+  "version": "1.0.0",
+  "description": "My description",
+  "main": "index.js",
+  "dependencies": {
+    "karma": "^1.2.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.5.0",
+    "karma": "^1.2.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vents23/stuff"
+  },
+  "author": "venno",
+  "license": "ISC"
+}
